@@ -9,9 +9,9 @@ I work at the intersection of mathematics, machine learning, and computer vision
 - **IIT Madras:** BS Data Science  
 
 ### Recent Research  
-- **AUV Navigation (IISc Bangalore):** Enhanced precision using advanced Kalman filters.  
-- **3D Point Clouds (IIIT Bangalore):** Keypoint detection, segmentation, and LiDAR-based modeling.  
-- **NLP Systems (AI4Bharat):** Developed pipelines for Indian language NLP.  
+- **AUV Navigation (IISc Bangalore):** Working on AUV perception and Precision navigation.  
+- **3D Point Clouds (IIIT Bangalore):** Keypoint detection, segmentation, and LiDAR-based modeling for UAVs.  
+- **NLP Systems (AI4Bharat):** Developed pipelines for Indian language NLP data collection.  
 
 ## Projects  
 - **[Deformation Measurement](https://github.com/codechitti216/Deformation_Measurement):** Tool for analyzing structural deformation from videos.  
